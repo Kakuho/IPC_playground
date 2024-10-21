@@ -1,0 +1,7 @@
+# directories
+/**/compile_commands.json
+/**/build/
+/**/.cache
+
+# files
+/**/*.swp
